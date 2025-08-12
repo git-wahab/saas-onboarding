@@ -106,3 +106,6 @@ Follow these steps to set up and run the project locally.
     -   **Admin Login:** `admin@admin.com` / `password123`
 
 -   **Tenant Workspace:** After registering a new user and creating a tenant (e.g., `acme`), you can access it at: [http://acme.multitenant.test:8000](http://acme.multitenant.test:8000)
+
+Video:
+https://drive.google.com/file/d/1W4wK8bLdTc75bkVwBSe_szoqtTe7_CCo/view?usp=sharing
